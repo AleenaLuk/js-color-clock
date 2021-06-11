@@ -44,7 +44,7 @@ A repo containing at least:
 
 **MAKE IT TICK**
 
-* console.log the current time on page load
+*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 * console.log the current time every second
 * Display the current time every second
 * Display the current time, padded with zeros to be exactly two digits long, every second
